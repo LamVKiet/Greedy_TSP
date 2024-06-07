@@ -1,0 +1,140 @@
+-------- Result number 41 --------
+Number of vertices: 7
+NNS: 459, GM: 467, NIS: 488, Min cost: 459
+Eff of NNS: 100.0
+Eff of GM: 101.74291938997821
+Eff of NIS: 106.31808278867103
+Best eff: ['NNS']
+-------- Result number 42 --------
+Number of vertices: 10
+NNS: 675, GM: 631, NIS: 669, Min cost: 613
+Eff of NNS: 110.11419249592169
+Eff of GM: 102.93637846655793
+Eff of NIS: 109.13539967373573
+Best eff: ['GM']
+-------- Result number 43 --------
+Number of vertices: 10
+NNS: 621, GM: 598, NIS: 648, Min cost: 584
+Eff of NNS: 106.33561643835617
+Eff of GM: 102.3972602739726
+Eff of NIS: 110.95890410958904
+Best eff: ['GM']
+-------- Result number 44 --------
+Number of vertices: 11
+NNS: 641, GM: 641, NIS: 649, Min cost: 608
+Eff of NNS: 105.42763157894737
+Eff of GM: 105.42763157894737
+Eff of NIS: 106.74342105263158
+Best eff: ['NNS', 'GM']
+-------- Result number 45 --------
+Number of vertices: 11
+NNS: 682, GM: 652, NIS: 727, Min cost: 651
+Eff of NNS: 104.76190476190477
+Eff of GM: 100.15360983102919
+Eff of NIS: 111.67434715821814
+Best eff: ['GM']
+-------- Result number 46 --------
+Number of vertices: 10
+NNS: 603, GM: 603, NIS: 601, Min cost: 588
+Eff of NNS: 102.55102040816327
+Eff of GM: 102.55102040816327
+Eff of NIS: 102.2108843537415
+Best eff: ['NIS']
+-------- Result number 47 --------
+Number of vertices: 8
+NNS: 516, GM: 516, NIS: 559, Min cost: 516
+Eff of NNS: 100.0
+Eff of GM: 100.0
+Eff of NIS: 108.33333333333333
+Best eff: ['NNS', 'GM']
+-------- Result number 48 --------
+Number of vertices: 12
+NNS: 731, GM: 733, NIS: 757, Min cost: 713
+Eff of NNS: 102.52454417952315
+Eff of GM: 102.80504908835906
+Eff of NIS: 106.17110799438991
+Best eff: ['NNS']
+-------- Result number 49 --------
+Number of vertices: 8
+NNS: 491, GM: 476, NIS: 517, Min cost: 476
+Eff of NNS: 103.15126050420169
+Eff of GM: 100.0
+Eff of NIS: 108.61344537815125
+Best eff: ['GM']
+-------- Result number 50 --------
+Number of vertices: 8
+NNS: 479, GM: 479, NIS: 536, Min cost: 479
+Eff of NNS: 100.0
+Eff of GM: 100.0
+Eff of NIS: 111.89979123173276
+Best eff: ['NNS', 'GM']
+-------- Result number 51 --------
+Number of vertices: 10
+NNS: 645, GM: 611, NIS: 606, Min cost: 596
+Eff of NNS: 108.2214765100671
+Eff of GM: 102.51677852348993
+Eff of NIS: 101.6778523489933
+Best eff: ['NIS']
+-------- Result number 52 --------
+Number of vertices: 12
+NNS: 759, GM: 729, NIS: 774, Min cost: 725
+Eff of NNS: 104.6896551724138
+Eff of GM: 100.55172413793103
+Eff of NIS: 106.75862068965517
+Best eff: ['GM']
+-------- Result number 53 --------
+Number of vertices: 9
+NNS: 559, GM: 574, NIS: 584, Min cost: 551
+Eff of NNS: 101.4519056261343
+Eff of GM: 104.17422867513612
+Eff of NIS: 105.98911070780399
+Best eff: ['NNS']
+-------- Result number 54 --------
+Number of vertices: 9
+NNS: 573, GM: 564, NIS: 583, Min cost: 543
+Eff of NNS: 105.52486187845305
+Eff of GM: 103.86740331491713
+Eff of NIS: 107.36648250460405
+Best eff: ['GM']
+-------- Result number 55 --------
+Number of vertices: 12
+NNS: 684, GM: 703, NIS: 701, Min cost: 670
+Eff of NNS: 102.08955223880598
+Eff of GM: 104.92537313432835
+Eff of NIS: 104.6268656716418
+Best eff: ['NNS']
+-------- Result number 56 --------
+Number of vertices: 12
+NNS: 734, GM: 734, NIS: 770, Min cost: 731
+Eff of NNS: 100.41039671682626
+Eff of GM: 100.41039671682626
+Eff of NIS: 105.33515731874145
+Best eff: ['NNS', 'GM']
+-------- Result number 57 --------
+Number of vertices: 11
+NNS: 703, GM: 721, NIS: 676, Min cost: 660
+Eff of NNS: 106.51515151515152
+Eff of GM: 109.24242424242425
+Eff of NIS: 102.42424242424242
+Best eff: ['NIS']
+-------- Result number 58 --------
+Number of vertices: 12
+NNS: 736, GM: 740, NIS: 747, Min cost: 713
+Eff of NNS: 103.2258064516129
+Eff of GM: 103.78681626928471
+Eff of NIS: 104.76858345021039
+Best eff: ['NNS']
+-------- Result number 59 --------
+Number of vertices: 9
+NNS: 542, GM: 523, NIS: 523, Min cost: 523
+Eff of NNS: 103.63288718929253
+Eff of GM: 100.0
+Eff of NIS: 100.0
+Best eff: ['GM', 'NIS']
+-------- Result number 60 --------
+Number of vertices: 12
+NNS: 686, GM: 697, NIS: 733, Min cost: 673
+Eff of NNS: 101.93164933135215
+Eff of GM: 103.5661218424963
+Eff of NIS: 108.91530460624071
+Best eff: ['NNS']
